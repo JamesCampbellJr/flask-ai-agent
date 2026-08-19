@@ -1,0 +1,3 @@
+-r requirements-base.txt
+flask>=3.0,<4.0
+gunicorn>=21.2,<23.0
